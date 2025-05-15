@@ -1,0 +1,9 @@
+# Core data libraries
+numpy>=1.23.0
+pandas>=2.2.3
+
+# Machine learning
+scikit-learn>=1.6.1
+
+# Model persistence
+joblib>=1.5.0
